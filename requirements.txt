@@ -23,7 +23,7 @@ queuelib==1.5.0
 Scrapy==1.5.1
 service-identity==17.0.0
 six==1.11.0
-Twisted==19.10.0
+Twisted==22.2.0
 virtualenv==16.7.9
 virtualenv-clone==0.5.3
 w3lib==1.19.0
